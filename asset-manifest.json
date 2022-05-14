@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/selectallcheckbox/static/css/main.6c3c74b0.css",
-    "main.js": "/selectallcheckbox/static/js/main.b3906570.js",
+    "main.js": "/selectallcheckbox/static/js/main.789205e5.js",
     "static/js/787.2304b5a9.chunk.js": "/selectallcheckbox/static/js/787.2304b5a9.chunk.js",
     "index.html": "/selectallcheckbox/index.html",
     "main.6c3c74b0.css.map": "/selectallcheckbox/static/css/main.6c3c74b0.css.map",
-    "main.b3906570.js.map": "/selectallcheckbox/static/js/main.b3906570.js.map",
+    "main.789205e5.js.map": "/selectallcheckbox/static/js/main.789205e5.js.map",
     "787.2304b5a9.chunk.js.map": "/selectallcheckbox/static/js/787.2304b5a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c3c74b0.css",
-    "static/js/main.b3906570.js"
+    "static/js/main.789205e5.js"
   ]
 }
