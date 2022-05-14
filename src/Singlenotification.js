@@ -50,7 +50,10 @@ export const Singlenotification = ({ item, users, setUsers }) => {
 
   return (
     <div className="accordion-item col-sm-12 border-bottom  ">
-      <div className="accordion-title titlepart">
+      <div
+        className="accordion-title titlepart"
+        onClick={() => setIsActive(!isActive)}
+      >
         <div>
           <input
             type="checkbox"

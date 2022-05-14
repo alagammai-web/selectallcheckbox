@@ -3,7 +3,7 @@ import React from "react";
 import Notificationcomp from "./Notificationcomp";
 // import { accordionData } from "./utils/content";
 import "./App.css";
-import { Tryuser } from "./Tryuser";
+// import { Tryuser } from "./Tryuser";
 
 const App = () => {
   return (
